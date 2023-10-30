@@ -1,7 +1,5 @@
-![image](https://github.com/shahinibrahimli/Rectangle/assets/58074643/42f1fa76-3445-4884-94a6-80460a2190aa)Hello Arthur. At last, I completed the task.
 
-I will explain a few things here. 
-Also I will add the GitHub link of the project. And there will be additional explanations in there. 
+Explanation : 
  ![image](https://github.com/shahinibrahimli/Rectangle/assets/58074643/49138f59-1ed0-453b-ab0c-cef6ad92d50e)
 
  
