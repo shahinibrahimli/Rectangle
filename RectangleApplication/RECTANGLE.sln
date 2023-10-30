@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle.API", "Rectangle.API\Rectangle.API.csproj", "{5761A1A1-7C83-4895-917A-1DEF5401419A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle.Domain", "Rectangle.Domain\Rectangle.Domain.csproj", "{1A2A6A5B-C08C-438C-A25D-ED88148382AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle.Persistence", "Rectangle.Persistence\Rectangle.Persistence.csproj", "{DED1278F-1EE0-4CA8-8027-B6FB8546B441}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A0070C2F-DED6-436B-BECC-0707E6EB7AF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle.DomainServices", "Rectangle.DomainServices\Rectangle.DomainServices.csproj", "{860CE6F6-0F2B-4EF9-BCF2-FABA7473D29D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle.DomainServices.Tests", "SC.UVD.DomainServices.Tests\Rectangle.DomainServices.Tests.csproj", "{CCA109A6-CC96-4DFF-9410-0E2A21D775CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5761A1A1-7C83-4895-917A-1DEF5401419A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5761A1A1-7C83-4895-917A-1DEF5401419A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5761A1A1-7C83-4895-917A-1DEF5401419A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5761A1A1-7C83-4895-917A-1DEF5401419A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2A6A5B-C08C-438C-A25D-ED88148382AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2A6A5B-C08C-438C-A25D-ED88148382AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2A6A5B-C08C-438C-A25D-ED88148382AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2A6A5B-C08C-438C-A25D-ED88148382AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED1278F-1EE0-4CA8-8027-B6FB8546B441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED1278F-1EE0-4CA8-8027-B6FB8546B441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED1278F-1EE0-4CA8-8027-B6FB8546B441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED1278F-1EE0-4CA8-8027-B6FB8546B441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{860CE6F6-0F2B-4EF9-BCF2-FABA7473D29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860CE6F6-0F2B-4EF9-BCF2-FABA7473D29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860CE6F6-0F2B-4EF9-BCF2-FABA7473D29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860CE6F6-0F2B-4EF9-BCF2-FABA7473D29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA109A6-CC96-4DFF-9410-0E2A21D775CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA109A6-CC96-4DFF-9410-0E2A21D775CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA109A6-CC96-4DFF-9410-0E2A21D775CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA109A6-CC96-4DFF-9410-0E2A21D775CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CCA109A6-CC96-4DFF-9410-0E2A21D775CA} = {A0070C2F-DED6-436B-BECC-0707E6EB7AF3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FBA87F1-7D1D-499B-A3D1-01033FD31309}
+		{5FF7F55A-414A-4055-B24A-15E0AC466F0B} = {A0070C2F-DED6-436B-BECC-0707E6EB7AF3}
+	EndGlobalSection
+EndGlobal
