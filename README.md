@@ -1,4 +1,5 @@
 
+NOTE: For calling API you can use Altair or Postman.
 Explanation : 
  ![image](https://github.com/shahinibrahimli/Rectangle/assets/58074643/49138f59-1ed0-453b-ab0c-cef6ad92d50e)
 
